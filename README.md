@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -72,7 +71,7 @@
 
         <p>¡Hola, soy [Tu Nombre]! 👋</p>
 
-        <p>Soy un apasionado ingeniero con experiencia en [tecnologías específicas]. Me encanta trabajar en
+        <p>Soy un apasionado [desarrollador/ingeniero/otro] con experiencia en [tecnologías específicas]. Me encanta trabajar en
             proyectos desafiantes y aprender constantemente.</p>
 
         <h2>Proyectos Destacados</h2>
